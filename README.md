@@ -2,16 +2,17 @@
 AI-powered fitness tracker app that connects with wearable devices to monitor daily activities and workouts, analyze health data, and provide personalized recommendations, tips, and improvements for better fitness and lifestyle habits.
 
 # Requirements
-All the required libraries are provided in the text file "requirements.txt" to install the required libraries use this command,
-    #pip install -r requirements.txt
+All the required libraries are provided in the text file "requirements.txt" 
+ -->To install the required libraries use this command,
+      #pip install -r requirements.txt
 
-# 🧠 AI-Integrated Fitness Tracker
+# AI-Integrated Fitness Tracker
 
 A modular fitness tracking web app powered by AI and ML to provide personalized workouts, track user data, and correct form—all in one place.
 
 ---
 
-## 🚀 Project Modules
+## Project Modules
 
 | Module            | Description |
 |------------------|-------------|
@@ -24,7 +25,7 @@ A modular fitness tracking web app powered by AI and ML to provide personalized 
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```bash
 app/
